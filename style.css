@@ -10,18 +10,13 @@ header {
   margin: 0 auto;
   text-align: center;
 }
-/*
-header .heading {
-  font-size: 32px;
-}
-*/
 
 .nav-list {
   text-align: center;
   padding: 15px 0;
-  border: #848282;
-  border-top: 1px solid ;
-  border-bottom: 1px solid ;
+  margin: 0 auto;
+  border-top: 1px solid #848282;
+  border-bottom: 1px solid #848282;
 }
 
 .nav-list-item {
